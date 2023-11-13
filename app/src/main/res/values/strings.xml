@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab5-quiz-app</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
